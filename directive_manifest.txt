@@ -1,0 +1,13 @@
+// Operation Directive Manifest
+
+This manifest is secured. Access requires validation of the fractured path.
+
+---
+
+[ENCRYPTED_TARGET_LOCATION]
+
+aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vbXRoLTMxNC82OTMxNDZlOTQ0ODQxMDljNjM5NjY4MGVlZmVlMTQyMA==
+
+---
+
+Protocol breached. Temporal integrity critical. Seek the next echo point.
