@@ -10,7 +10,7 @@
 
 ### URGENT DIRECTIVE (Encrypted Block Alpha):
 
-V sbyybj gur fbyhrg. Fbj gur yvzvg. Gurer vf zber jurer gurl yrzfg.
+V sbyybj gur fbyhgvba. Fnj gur yvzvg. Gurer vf zber jurer gurl yrsg.
 
 ---
 
